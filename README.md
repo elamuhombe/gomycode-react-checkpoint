@@ -23,7 +23,7 @@ Before you begin, ensure you have met the following requirements:
 - Code editor (e.g., Visual Studio Code)
 
 ### Project structure
-![project-structure](https://github.com/elamuhombe/gomycode-react-checkpoint/assets/10416177/2832960f-4cd0-48e6-8fa3-2a3e3d1ae322)
+https://github.com/elamuhombe/gomycode-react-checkpoint/blob/main/screen-shots/project-structure.png
 
 ### Usage
 1. Clone the repository to your local machine:</br>
@@ -35,12 +35,12 @@ Installation of dependencies </br>
 
 
 Installation of React Bootsrap </br>
-![install-bootsrap (2)](https://github.com/elamuhombe/gomycode-react-checkpoint/assets/10416177/06ba3a90-eb0b-4a8d-b015-54ffa8100812)
+[https://github.com/elamuhombe/gomycode-react-checkpoint/blob/main/screen-shots/install-bootsrap.png]
 
 
 ### Running the App
 In the terminal, run the following command: </br>
-![start (1)](https://github.com/elamuhombe/gomycode-react-checkpoint/assets/10416177/bfe0c662-37cd-4e8e-acab-685d47e395d3)
+(https://github.com/elamuhombe/gomycode-react-checkpoint/blob/main/screen-shots/start.png)
 
 ### Built With
 - React - JavaScript library for building user interfaces
