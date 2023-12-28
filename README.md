@@ -1,6 +1,6 @@
 # Restaurant-app
 
-This is an app created using React and styled using Bootsrap
+This is simple restaurant app created using React and styled using React-Bootsrap
 
 ## Table of Contents
 
@@ -23,7 +23,8 @@ Before you begin, ensure you have met the following requirements:
 - Code editor (e.g., Visual Studio Code)
 
 ### Project structure
-https://github.com/elamuhombe/gomycode-react-checkpoint/blob/main/screen-shots/project-structure.png
+![project-structure](https://github.com/elamuhombe/gomycode-react-checkpoint/assets/10416177/851e2c84-9593-43dc-90b5-fb3b7a96fd86)
+
 
 ### Usage
 1. Clone the repository to your local machine:</br>
@@ -35,12 +36,14 @@ Installation of dependencies </br>
 
 
 Installation of React Bootsrap </br>
-[https://github.com/elamuhombe/gomycode-react-checkpoint/blob/main/screen-shots/install-bootsrap.png]
+![install-bootsrap](https://github.com/elamuhombe/gomycode-react-checkpoint/assets/10416177/d500e113-4993-4bb1-bc7b-0495aa80deff)
+
 
 
 ### Running the App
 In the terminal, run the following command: </br>
-(https://github.com/elamuhombe/gomycode-react-checkpoint/blob/main/screen-shots/start.png)
+![start](https://github.com/elamuhombe/gomycode-react-checkpoint/assets/10416177/025aab83-2b28-41f8-a111-9a6e80df0d1b)
+
 
 ### Built With
 - React - JavaScript library for building user interfaces
