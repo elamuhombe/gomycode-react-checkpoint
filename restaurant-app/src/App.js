@@ -1,8 +1,8 @@
 // Importing necessary libraries and styles
 import React from "react";
 import "bootstrap/dist/css/bootstrap.min.css";
-import "bootstrap/dist/css/bootstrap.min.css";
 import { Container, Navbar, Nav, Button, Card, Forms } from "react-bootstrap";
+import './styles.css';
 
 // React component
 
@@ -36,8 +36,8 @@ const MyComponent = () => {
                 {/* Card component for Tofu */}
                 <h5 className="card-title">Tofu</h5>
                 <p className="card-text">
-                  With supporting text below as a natural lead-in to additional
-                  content.
+                  <div><div><img src="images/tofu-1.png" alt="Tofu" /></div></div>
+                  A creamy, high protein, low-fat product made from soy milk
                 </p>
                 <a href="#" className="btn btn-primary">
                   Order
@@ -51,8 +51,8 @@ const MyComponent = () => {
               <div className="card-body">
                 <h5 className="card-title">Egg and Cucumber</h5>
                 <p className="card-text">
-                  With supporting text below as a natural lead-in to additional
-                  content.
+                  <div><div><img src="images/egg-1.png" alt="Egg and Cucumber" /></div></div>
+                  This egg and salad cucumber is the perfect appetizer.
                 </p>
                 <a href="#" className="btn btn-primary">
                   Order
@@ -66,8 +66,8 @@ const MyComponent = () => {
               <div className="card-body">
                 <h5 className="card-title">Fish and Veggie</h5>
                 <p className="card-text">
-                  With supporting text below as a natural lead-in to additional
-                  content.
+                <div><img src="images/fish-1.png" alt="Fish and Veggie" /></div>
+                  Make the most of in-season veggie with this pan fried fish dish.
                 </p>
                 <a href="#" className="btn btn-primary">
                   Order
@@ -81,8 +81,8 @@ const MyComponent = () => {
               <div className="card-body">
                 <h5 className="card-title">Chicken Wings</h5>
                 <p className="card-text">
-                  With supporting text below as a natural lead-in to additional
-                  content.
+                  <div><div><img src="images/chicken-1.png" alt="Chiken-wings" /></div></div>
+                  Crispy perfectly deep fried chicken wings.
                 </p>
                 <a href="#" className="btn btn-primary">
                   Order
