@@ -53,8 +53,8 @@ In the terminal, run the following command: </br>
 Elaine Muhombe
 
 ### Acnowledgements
-- Create React App
-- React-Bootstrap Documentation
+- Create React App https://react.dev/
+- React-Bootstrap Documentation https://react-bootstrap.netlify.app/
 
 
 
