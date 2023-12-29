@@ -46,8 +46,8 @@ In the terminal, run the following command: </br>
 
 
 ### Built With
-- React - JavaScript library for building user interfaces
-- React-Bootstrap - Bootstrap components built with React
+- React v18 - JavaScript library for building user interfaces
+- React-Bootstrap v2.92 - Bootstrap components built with React
 
 ### Author
 Elaine Muhombe
