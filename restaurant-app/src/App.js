@@ -67,7 +67,7 @@ const MyComponent = () => {
                 <h5 className="card-title">Fish and Veggie</h5>
                 <p className="card-text">
                 <div><img src="images/fish-1.png" alt="Fish and Veggie" /></div>
-                  Make the most of in-season veggie with this pan fried fish dish.
+                  Make the most of in-season veggie with this pan fried fish.
                 </p>
                 <a href="#" className="btn btn-primary">
                   Order

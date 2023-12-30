@@ -1,13 +1,22 @@
+/* Remove the default margin and padding from the document */
+*{
+    margin: 0;
+    padding: 0;
+}
 /* Apply margin to elements with class 'card' */
 .card {
     margin: 10px;
+    height: 350px;
 }
-
-/* Set width and height for all 'img' elements */
-img {
-    width: 45px;
-    height: 45px;
+.btn-primary:hover{
+    background-color: #93C572;
+    border-color: #93C572;
 }
+/* Styling for all 'img' elements */
+img{
+    width: 150px;
+    height: 150px;
+    }
 
 /* Styles for form elements */
 form {
