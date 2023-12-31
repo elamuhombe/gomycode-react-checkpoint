@@ -52,7 +52,7 @@ const MyComponent = () => {
                 <h5 className="card-title">Egg and Cucumber</h5>
                 <p className="card-text">
                   <div><div><img src="images/egg-1.png" alt="Egg and Cucumber" /></div></div>
-                  This egg and salad cucumber is the perfect appetizer.
+                This egg and salad cucumber is the perfect appetizer.
                 </p>
                 <a href="#" className="btn btn-primary">
                   Order
