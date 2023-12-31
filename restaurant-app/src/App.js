@@ -37,7 +37,7 @@ const MyComponent = () => {
                 <h5 className="card-title">Tofu</h5>
                 <p className="card-text">
                   <div><div><img src="images/tofu-1.png" alt="Tofu" /></div></div>
-                  A creamy, high protein, low-fat product made from soy milk
+                  A creamy, high protein, low-fat product made from soy milk.
                 </p>
                 <a href="#" className="btn btn-primary">
                   Order
